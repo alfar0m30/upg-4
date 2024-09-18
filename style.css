@@ -1,0 +1,17 @@
+body {
+    background-color: lightgreen;
+    color: purple;
+    font-family: Arial, sans-serif;
+}
+
+
+h1 {
+    color: tomato;
+    background-color: lightblue;
+}
+
+
+h2 {
+    color: lightgreen;
+    background-color: purple;
+}
